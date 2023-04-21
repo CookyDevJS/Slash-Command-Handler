@@ -5,7 +5,7 @@
 ## ¿Necesitas ayuda? Unete al soporte de discord [Soporte Link](https://discord.gg/dfZaHBwptB)
 
 ---
-### Nota: Node.js 16.6.0 es la version requerida
+### Nota: Node.js 16.6.0 es la version requerida.
 ---
 
 ## Instalacion
