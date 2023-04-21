@@ -8,12 +8,16 @@
 ### Nota: Node.js 16.6.0 es la version requerida.
 ---
 
-## Instalacion
+## Instalación:
 
 ```sh
 npm install
 ```
+## Ejecución:
 
+```sh
+node index.js
+```
 ---
 ### asegúrese de comprobar la guia: [Slash Commands Guia](https://discordjs.guide/interactions/slash-commands.html#registering-slash-commands)
 ---
