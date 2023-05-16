@@ -1,4 +1,5 @@
 const Discord = require("discord.js");
+const config = require("./config.json")
 const client = new Discord.Client({ intents: [
 	'Guilds',
 	'MessageContent',
@@ -23,4 +24,4 @@ process.on('unhandledRejection', (error) => {
 	console.error(error);
 })
   
-client.login(process.env.TOKEN);
+client.login(config.token);
